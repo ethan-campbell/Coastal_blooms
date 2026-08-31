@@ -23,7 +23,12 @@ This repository contains Python code and relevant files for running the analyses
 
 3. Recreate the required Python environment with all dependencies using the provided `coastal_blooms.yml` environment file. From within the repository, execute `conda env create -f coastal_blooms.yml` (you can also substitute `conda` with `mamba`, if preferred). This will create a new environment called `coastal_blooms`. Next, activate the environment using `conda activate coastal_blooms`.
 
-4. Open and follow the two code notebooks, using `coastal_blooms_download_data.ipynb` first to download and process some key input data files. Second, use `coastal_blooms.ipynb`, the main notebook, to run the additional processing, analysis, and figure generation code.
+4. Download the following three input data files manually (the remainder of input will be downloaded programmatically in the Jupyter notebooks):
+- Download the ETOPO 2022 60 arc-second bathymetry from [NCEI](https://www.ncei.noaa.gov/products/etopo-global-relief-model) into `Data/ETOPO/`. The data file should be called `ETOPO_2022_v1_60s_N90W180_surface.nc`. 
+- Download the Lin et al. (2024) polynya boundaries from [Zenodo](https://zenodo.org/records/13358042) into `Data/Coastal_polynyas/`. The directory should be called `SIC60_6.25km_20d`. Only two of the provided files are required: `OverviewMap.mat` and `LonLat.nc`.
+- Download the Paolo et al. (2024) ice-shelf basal melt data from [NSIDC](https://nsidc.org/data/nsidc-0792/versions/1) into `Data/Ice_shelf_melt/`. The data file should be called `NSIDC-0792_19920317-20171216_V01.0.nc`.
+
+5. Open and follow the two code notebooks, using `coastal_blooms_download_data.ipynb` first to download and process some key input data files. Second, use `coastal_blooms.ipynb`, the main notebook, to run the additional processing, analysis, and figure generation code.
 
 - Start by running the **"Preamble"** notebook cells. Verify that the `conda` environment is functioning correctly.
 - You will have to update the directory names as needed. Mainly, the variable `data_dir` should be updated to point to the location of the `Data/` directory within this repository on your system.
