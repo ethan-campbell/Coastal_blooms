@@ -1,4 +1,4 @@
-# Antarctic coastal blooms analysis
+# Antarctic coastal blooms analysis code
 
 **This repository contains the analysis code for Ha et al., "Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season", submitted.**
 
