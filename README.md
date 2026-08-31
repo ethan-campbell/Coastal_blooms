@@ -7,7 +7,7 @@ Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any que
 ## Attribution
 If using the code and/or model data in an academic publication, we encourage you to provide the following citations, as appropriate:
 * **Manuscript (pending)**: Ha, R.Y., Campbell, E.C., Young, J.N. (submitted). Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season.
-* **Code archive**: Campbell, E.C., Ha, R.Y. (2026, August 31). Analysis code for Ha et al. on Antarctic coastal blooms, v1.0.0. Zenodo. doi:[TBD](URL_TBD)
+* **Code archive**: Campbell, E.C., Ha, R.Y. (2026, August 31). Analysis code for "Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season", v1.0.0. Zenodo. doi:[TBD](URL_TBD)
 
 This code is freely available for reuse as described in the MIT license included in the repository.
 
