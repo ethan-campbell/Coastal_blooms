@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22216048.svg)](https://doi.org/10.5281/zenodo.22216048)
+
 # Antarctic coastal blooms analysis code
 
 **This repository contains the analysis code for Ha et al., "Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season", submitted.**
@@ -7,7 +9,7 @@ Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any que
 ## Attribution
 If using the code and/or model data in an academic publication, we encourage you to provide the following citations, as appropriate:
 * **Manuscript (pending)**: Ha, R.Y., Campbell, E.C., Young, J.N. (submitted). Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season.
-* **Code archive**: Campbell, E.C., Ha, R.Y. (2026, August 31). Analysis code for "Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season", v1.0.0. Zenodo. doi:[TBD](URL_TBD)
+* **Code archive**: Campbell, E.C., Ha, R.Y. (2026, August 31). Analysis code for "Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season", v1.0.0. Zenodo. doi:[10.5281/zenodo.22216048](https://doi.org/10.5281/zenodo.22216048)
 
 This code is freely available for reuse as described in the MIT license included in the repository.
 
